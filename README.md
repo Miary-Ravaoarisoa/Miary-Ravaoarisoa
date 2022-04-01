@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miary-Ravaoarisoa
+- 👋 Hi, I’m @Miary
 - 👀 I’m interested in web design, itegration and mobile app
 - 🌱 I’m currently learning web design and front-end developpement
 - 💞️ I’m looking to collaborate on front-end developpement
